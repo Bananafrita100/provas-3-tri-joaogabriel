@@ -1,6 +1,9 @@
 body{
     background-color: whitesmoke;
 }
-h1[
-    
-]
+.La{
+    font-size: medium;
+    font-style: oblique;
+    padding: 20px;
+    margin: 10px;
+}
